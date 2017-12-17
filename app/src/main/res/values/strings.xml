@@ -1,0 +1,363 @@
+<resources>
+    <string name="app_name">farming Guru</string>
+    <string name="Search">Search</string>
+    <string name="main_activity_name">Welcome</string>
+    <string name="star">Star</string>
+
+    <string name="tomatoe_details"> <![CDATA[
+                                        * Water generously for the first few days.\n\n
+* Water well throughout the growing season, about 2 inches per week during the summer. Keep watering consistent!\n\n
+* Mulch five weeks after transplanting to retain moisture.\n\n
+* To help tomatoes through periods of drought, find some flat rocks and place one next to each plant. The rocks pull water up from under the ground and keep it from evaporating into the\n\n
+* Fertilize two weeks prior to first picking and again two weeks after first picking.\n\n
+* If using stakes, prune plants by pinching off suckers so that only a couple stems are growing per stake. Learn how to build stakes and other tomato supports with this video.\n\n
+* Practice crop rotation from year to year to prevent diseases that may have overwintered.\n\n
+]]>  </string>
+
+    <string name="brocoli_details"><![CDATA[
+        * Broccoli can germinate in soil with temperatures as low as 40ºF.\n\n
+* Broccoli requires full sun and moist, fertile soil that’s slightly acidic. Work in 2 to 4 inches of rich compost or a thin layer of manure before planting. (Learn more about soil amendments and preparing soil for planting.)\n\n
+* For spring plantings, seed or set transplants 2 to 3 weeks before last spring frost date. (See local frost dates.) If you transplant, assume 10 less days for growth or the “days to maturity” on the seed packet.\n\n
+* For fall plantings, seed 85 to 100 days before your average first fall frost. If you live in a warm climate, a fall planting is best, as broccoli thrives in cool weather. Plant seeds in mid- to late-summer in most places.\n\n
+* Plant seeds ½ inch deep, or set transplants slightly deeper than they were grown originally.\n\n
+* Within a row, space your plants 12 to 24 inches apart with 36 inches between each row.\n\n
+* Space plants 12 to 24 inches apart, depending on the side heads you want to harvest.\n\n
+* If you overseed, you will need to thin seedlings to 12 inches apart to give room for the broccoli to grow.
+    ]]></string>
+
+    <string name="lettuce_details"><![CDATA[
+Before you plant your lettuce seeds, make sure the soil is prepared. It should be loose and drain well so it’s moist without staying soggy. To keep the soil fertile, feed it with organic matter about one week before you seed or transplant. Since the seed is so small, a well-tilled seedbed is essential. Large clods will reduce germination.\n\n
+      * Direct sowing is recommended as soon as the ground can be worked. Plant seeds ½ inch deep. Snow won’t hurt them, but a desiccating cold wind will.\n\n
+* If you want an earlier crop, however, you may start seeds indoors 4 to 6 weeks before last spring frost date for an earlier crop. Harden off seedlings for about one week, and transplant outside between 2 weeks before and 2 weeks after last spring frost.\n\n
+* Seed may be sown in single rows or broadcast for wide row planting. When broadcasting, you’ll need to “thin” for the proper spacing.\n\n
+* Leaf lettuce: Plant 4 inches apart.\n\n
+* Cos and loose-headed types: Plant 8 inches apart.\n\n
+* Firm-headed types: Plant 16 inches apart.\n\n
+* Your rows of plants should be 12 to 15 inches across.\n\n
+* Cover the seeds with ¼ to ½ inch of soil.\n\n
+* Water thoroughly at time of transplant.\n\n
+* Consider planting rows of chives or garlic between your lettuce to control aphids. They act as “barrier plants” for the lettuce.\n\n
+* If you’d like to grow your lettuce indoors, check out these tips for growing lettuce indoors.\n\n
+* It’s possible to plant lettuce in the fall or winter.\n\n
+
+        ]]></string>
+
+    <string name="beets_details"><![CDATA[
+   * A soil pH above 5.5–6 is best, otherwise growth will be stunted. Beets are a good indicator of soil pH.\n\n
+* Till in aged manure before planting. Beets require especially good nutrition and a high phosphorus level to germinate. Go easy on nitrogen however, an excess will cause sprawling greens and tiny bulbs beneath the soil.\n\n
+* Wait until soil reaches 50°F before planting.\n\n
+* Plant seeds ½ inch deep and 1-2 inches apart.\n\n
+* Make sure soil remains moist for germination.\n\n
+* In zones with low moisture and rainfall, soak the seeds for 24 hours before planting.\n\n
+* Early crop can be planted in March/April, and late crop anytime from June to September. Successive plantings are also possible as long as the weather doesn’t exceed 75°F. Space plantings about 20 days apart.\n\n
+* Winter crops are a definite possibility in Zone 9 and above.
+
+]]></string>
+
+    <string name="cabbage_details"><![CDATA[
+* Start cabbage seeds indoors 6 to 8 weeks before the last spring frost. See frost dates for your area.\n\n
+* Harden off plants over the course of a week. To prepare soil, till in aged manure or compost.\n\n
+* Transplant outdoors 2 to 3 weeks before the last expected frost date. Choose a cloudy afternoon.\n\n
+* Plant 12 to 24 inches apart in rows, depending on size of head desired. The closer you plant, the smaller the heads.\n\n
+* Mulch thickly to retain moisture and regulate soil temperature.\n\n
+* Practice crop rotation with cabbage year to year to avoid a buildup of soil borne diseases.\n\n
+* Although cabbage, broccoli, and cauliflower are closely related, and require similar nutrients, it’s best not to plant them together. They are all heavy feeders, depleting the soil faster of required nutrients; plus, they will attract the same pests and diseases. For cabbage, also avoid proximity to strawberries and tomatoes.\n\n
+* Cabbage can be grown near beans and cucumbers.\n\n
+* Check out our chart of plant companions for an expanded list of friends and foes.\n\n
+    ]]></string>
+
+    <string name="carrot_details"><![CDATA[
+    * Plan to plant seeds outdoors 3 to 5 weeks before the last spring frost date.\n\n
+* Carrots are ideally grown in full sunlight, but can tolerate a moderate amount of shade.\n\n
+* Plant carrot seeds 3 to 4 inches apart in rows. Rows should be at least a foot apart.\n\n
+* Make sure your soil is free of stones; carrots need deeply tilled soil that they can push through.\n\n
+* Have you ever seen a carrot that has grown “legs” or forked? Fresh manure, or even recently applied rotted manure, can cause carrots to fork and send out little side roots. Don’t use it before you plant your seeds.]]>
+    </string>
+
+    <string name="cucumber_details"><![CDATA[
+* Cucumber plants are seeded or transplanted outside in the ground no earlier than 2 weeks after last frost date. Cucumbers are extremely susceptible to frost damage; the soil must be at least 70ºF for germination. Do not plant outside too soon!\n\n
+* Before you plant outside, select a site with full sun.\n\n
+* Soil should be neutral or slightly alkaline with a pH of 7.0.\n\n
+* Cucumbers require fertile soil. Mix in compost and/or aged manure before planting to a depth of 2 inches and work into the soil 6 to 8 inches deep. Make sure that soil is moist and well-drained, not soggy.\n\n
+* Improve clay soil by adding organic matter. Improve dense, heavy soil by adding peat, compost or rotted manure. (Get a soil test if you are unsure of your soil type; contact your local county cooperative extension.) Light, sandy soils are preferred for northern gardens, as they warm quickly in the spring. See our guide to soil amendments.\n\n
+* Plant seedlings one inch deep and about 36 to 60 inches apart, depending on variety. For vines trained on a trellis, space plants 1 foot apart.\n\n
+* For an early crop, start cucumber seeds indoors about 3 weeks before you transplant them in the ground. They like bottom heat of about 70ºF (21ºC). If you don’t have a heat mat, put the seeds flat on top of the refrigerator or perch a few on top of the water heater. \n\n
+* If you live in the cooler climates, you can help warm the soil by covering the hill or row with black plastic.\n\n
+* Once the ground is warm, mulch with pine straw, chopped leaves, or another organic mulch to keep pests at bay, and also keep bush types off the ground to avoid disease.\n\n
+* A trellis is a good idea if you want the vine to climb, or if you have limited space. Trellising also protects the fruit from damage from lying on the moist ground.]]></string>
+
+    <string name="corn_details"><![CDATA[
+    * Corn plants are picky about their soil. Work in aged manure or compost the fall before planting and let over winter in the soil.\n\n
+* Starting corn seeds indoors is not recommended.\n\n
+* Plant seeds outdoors two weeks after the last spring frost date.\n\n
+* Make sure soil temperature is above 60 degrees F for successful germination. (Up to 65 for super sweet varieties.) In colder zones, the ground can be warmed by a black plastic cover if necessary. Plant seeds through holes.\n\n
+* Plant seeds 1 inch deep and 4 to 6 inches apart. Rows 30 to 36 inches apart.\n\n
+* For sufficient pollination, plan your plot right. Don’t plant two long rows, rather, plant corn blocks of at least four rows.\n\n
+* You may choose to fertilize at planting time; corn is meant to grow rapidly. If you are confident that the soil is adequate, this can be skipped.\n\n
+* Water well at planting time.\n
+    ]]></string>
+
+    <string name="peas_details"><![CDATA[
+    * To get the best head start, turn over your pea planting beds in the fall, add manure to the soil, and mulch well.\n\n
+* As with other legumes, pea roots will fix nitrogen in the soil, making it available for other plants.\n\n
+* Peas will appreciate a good sprinkling of wood ashes to the soil before planting. Learn more about soil amendments and preparing soil for planting.\n\n
+* Sow seeds outdoors 4 to 6 weeks before last spring frost, when soil temperatures reach 45 degrees F. Here are some more tips on when to start planting peas.\n\n
+* Plant 1 inch deep (deeper if soil is dry) and 2 inches apart.\n\n
+* Get them in the ground while the soil is still cool, but do not have them sit too long in wet soil. It’s a delicate balance of proper timing and weather conditions. For soil that stays wet longer, invest in raised garden beds.\n\n
+* A blanket of snow won’t hurt emerging pea plants, but several days with temperatures in the teens could. Be prepared to plant again.\n\n
+* Peas are best grown in temperatures below 70 degrees F.\n\n
+* Check out this video to learn how to plant peas early while soil is cold.
+]]></string>
+
+    <string name="spinach_details"><![CDATA[
+* Prepare the soil with aged manure about a week before planting, or, you may wish to prepare your spot in the fall so that you can sow the seeds outdoors in early spring as soon as the ground thaws. \n\n
+* If you live in a place with mild winters, you can also plant in the fall.\n\n
+* Although seedlings can be propagated indoors, it is not recommended, as seedlings are difficult to transplant.\n\n
+* Spring plantings can be made as soon as the soil can be properly worked. It’s important to seed as soon as you can to give spinach the required 6 weeks of cool weather from seeding to harvest.\n\n
+* Select a site with full sun to light shade and well-drained soil.\n\n
+* Sow seeds ½ inch to 1 inch deep, covering lightly with soil. Sow about 12 seeds per foot of row, or sprinkle over a wide row or bed.\n\n
+* Soil should not be warmer than 70º F in order for germination.\n\n
+* Successive plantings should be made every couple weeks during early spring. Common spinach cannot grow in midsummer. \n\n
+* Plant in mid-August for a fall crop, ensuring that soil temps are cool enough.\n\n
+* Gardeners in northern climates can harvest early-spring spinach if it’s planted just before the cold weather arrives in fall. Protect the young plants with a cold frame or thick mulch through the winter, then remove the protection when soil temperature in your area reaches 40º.\n\n
+* Water the new plants well in the spring.
+]]></string>
+
+    <string name="kale_details"><![CDATA[
+    * You can plant kale anytime from early spring to early summer. If you plant kale late in the summer you can harvest it from fall until the ground freezes in winter.\n\n
+* Mix 1-½ cups of 5-10-10 fertilizer per 25 feet of row into the top 3 to 4 inches of soil.\n\n
+* Plant the seeds ¼ to ½ inch deep into well-drained, light soil.\n\n
+* After about 2 weeks, thin the seedlings so that they are spaced 8 to 12 inches apart.\n\n
+]]></string>
+
+    <string name="garlic_details"><![CDATA[
+* Garlic can be planted in the spring as soon as the ground can be worked, but fall planting is recommended for most gardeners. Plant in the fall and you’ll find that your bulbs are bigger and more flavorful when you harvest the next summer.\n\n
+* In areas that get a hard frost, plant garlic 6 to 8 weeks before that frost date. In southern areas, February or March is a better time to plant.\n\n
+Break apart cloves from bulb a few days before planting, but keep the papery husk on each individual clove.\n\n
+Plant cloves about one month before the ground freezes. \n\n
+Do not plant cloves from the grocery store. They may be unsuited varieties for your area, and most are treated to make their shelf life longer, making them harder to grow. Instead, get cloves from a mail order seed company or a local nursery.\n\n
+Ensure soil is well-drained with plenty of organic matter. Select a sunny spot.\n\n
+Place cloves 4 inches apart and 2 inches deep, in their upright position \n\n
+In the spring, as warmer temperatures come, shoots will emerge through the ground\n\n
+]]></string>
+
+    <string name="onion_details"><![CDATA[
+* Select a location with full sun where your onions won’t be shaded by other plants.\n\n
+* Soil needs to be well-drained, loose, and rich in nitrogen; compact soil affects bulb development.\n\n
+* Till in aged manure or fertilizer the fall before planting. Onion plants are heavy feeders and need constant nourishment to produce big bulbs.\n\n
+* At planting time, you can mix in some nitogen fertilizer, too, and side dress every few weeks until the bulbing process begins.\n\n
+* Seeding? Onion seeds are short-lived. If planting seeds indoors, start with fresh seeds each year. Start seeds indoors about 6 weeks before transplanting.\n\n
+* Plant onions as soon as the ground can be worked in the spring, usually late March or April. Make sure temperature doesn’t go below 20 degrees F.\n\n
+* For sets or transplants, plant the smaller sets 1 inch deep, with 4 to 5 inches between each plant and in rows 12 to 18 inches apart.\n\n
+* Think of onions as a leaf crop, not a root crop. When planting onion sets, don’t bury them more than one inch under the soil; if more than the bottom third of the bulb is underground, bulb growth can be restricted.\n\n
+* Practice crop rotation with onions.
+]]></string>
+
+    <string name="herbs_details"><![CDATA[
+    For Herbs we will not only tell you where to plant but  we also tell you what is the use of herbs in Kitchen \n\n
+* Basil : \n
+In the garden: Plant with tomatoes. Repels flies and mosquitoes.\n
+In the kitchen: Use in tomato dishes, pesto, sauces, and salad dressings.\n\n
+
+* Chives : \n
+In the garden: Plant with carrots.\n
+In the kitchen: Related to the onion, chives enliven vegetable dishes, dressings, casseroles, rice, eggs, cheese dishes, sauces, gravies, and dips.\n\n
+
+* Dill : \n
+In the garden: Plant with cabbages. Keep away from carrots.\n
+In the kitchen: Use seed for pickles and also to add aroma and taste to strong vegetables like cauliflower, cabbage, and turnips. Use fresh with green beans, potato dishes, cheese, soups, salads, seafood, and sauces.\n\n
+
+* Mint : \n
+In the garden: Plant near cabbage and tomatoes. Deters white cabbage moth.\n
+In the kitchen: It is common in Middle Eastern dishes. Use with roast lamb or fish and in salads, jellies, or teas.\n\n
+
+* Oregano : \n
+In the garden: Good companion to all vegetables.\n
+In the kitchen: Of Italian origin, its taste is zesty and strong, good in any tomato dish. Try oregano with summer squash and potatoes, mushroom dishes, beans, or in a marinade for lamb or game.\n\n
+
+* Parsley : \n
+In the garden: Plant near asparagus, corn, and tomatoes.\n
+In the kitchen: Use fresh parsley in soups, sauces, and salads. It lessens the need for salt in soups. You can fry parsley and use it as a side dish with meat or fish. It is, of course, the perfect garnish.\n\n
+
+* Rosemary : \n
+In the garden: Plant near cabbage, beans, carrots, and sage. Deters cabbage moth, bean beetles, and carrot fly.\n
+In the kitchen: Use for poultry, lamb, and tomato dishes, stews, soups, and vegetables. Try it finely chopped in breads and custards.\n\n
+
+* Sage : \n
+In the garden: Plant near rosemary, cabbage, and carrots; away from cucumbers. Deters cabbage moth and carrot fly.\n
+In the kitchen: Use in cheese dishes, stuffings, soups, pickles, with beans and peas, and in salads. Excellent for salt-free cooking.\n\n
+
+* Tarragon : \n
+In the garden: Good companion to most vegetables.\n
+In the kitchen: Great with meat, eggs, poultry, seafood, and in salad dressings, marinades, and sauces.\n\n
+
+* Thyme : \n
+In the garden: Plant near cabbage. Deters cabbage worm.\n
+In the kitchen: Use in casseroles, stews, soups, ragouts, and with eggs, potatoes, fish, and green vegetables.\n\n
+
+* Garlic : \n
+In the garden: Plant near roses and raspberries. Deters Japanese beetle.\n
+In the kitchen: Use in tomato dishes, garlic bread, soups, dips, sauces, marinades, or with meats, poultry, fish, and vegetables.\n\n
+
+* Summer Savory : \n
+In the garden: Plant with beans and onions to improve growth and flavor.\n
+In the kitchen: Popular in soups, stews, stuffings, and with fish, chicken, green beans, and eggs.\n\n
+]]></string>
+
+    <string name="peppers_details">The pepper is a climber and hence it needs support of some other plant (called standard)  to climb. Many of the existing trees  in a garden such as arecanut, coconut, jackfruit, mango and other forest trees  can be  used as the standard or mother plant. When such plants are not available cuttings of Erythrina Indica may be planted ahead of pepper cutting season to be used as a standard. Pepper should be planted at a distance of three to four metres from plant to plant on either side. Pits measuring 0.5 m x 0.5 m x 0.5 m should be dug on the northern or eastern side at a distance of 30 cms away from the standard. With the onset of  monsoon 2 to 3 rooted cuttings are to be  planted in the pits prepared earlier at the base of each standard. It is to be ensured that at least one node of the cuttings goes underground and the  upper portion of 45 cms or more being made to rest on the standard. The pits are then to be filled in with the soil mixed with about 9 kgs of compost or well rotten cattle manure and should be pressed hard to avoid water stagnation. Adequate shade may be provided when the pepper plants are young.</string>
+
+    <string name="melons_details"><![CDATA[
+* If you live in warmer climes, you can sow seeds directly outdoors, but wait until the soil temperature warms to at least 70°F to avoid poor germination.\n\n
+* Watermelon vines are very tender and should not be transplanted until all danger of frost has passed. (To be safe, wait at least two weeks past your last frost date.)\n\n
+* If you are in a cooler zone, start seeds indoors about a month before transplanting.\n\n
+* Amend soil with aged manure, seaweed, and/or compost before planting. Watermelons are heavy feeders. Learn more about soil amendments and preparing soil for planting.\n\n
+* Watermelons prefer a soil pH between 6 and 6.8.\n\n
+* Growing the vines in raised rows, known as hills, ensures good drainage and will hold the sun’s heat longer. Space the plants about 2 feet apart in a 5-foot-wide hill. \n\n
+* If you’re growing in rows, space 6 feet by 6 feet apart. \n\n
+* Watermelons like loamy, well-drained soil. Handle them gently when you transplant. \n\n
+* After you transplant, cover the plants with row covers to keep pests at bay. You’ll remove the row covers when you see both male and female flowers on the vine.\n\n
+]]></string>
+
+    <string name="radish_details"><![CDATA[
+* Plant 4-6 weeks before the average date of last frost, after aged manure or organic fertilizer has been worked into soil.\n\n
+* Directly sow seeds ½ inch to an inch deep and one inch apart in rows 12 inches apart.\n\n
+* After they have sprouted, thin to about 2-inch spacings. Crowded plants will not grow well.\n\n
+* Radishes need sun. If they are planted in too much shade—or even where neighboring vegetable plants shade them—they put all their energy into producing larger leaves.\n\n
+* Practice three-year crop rotation.\n\n
+* Plant consecutively every two weeks or so while weather is still cool for a continuous harvest of radishes.\n\n
+* Plan on a fall planting. You can plant radishes later than any other root crop in late summer or early fall and still get a harvest.
+]]></string>
+
+    <string name="blueberries_details"><![CDATA[
+* Blueberries thrive in soil that is acidic. The soil pH should ideally be between 4 and 5. The more organic matter added, the more tolerance to acidity blueberries will have.\n\n
+* The blueberry is a shallow-rooted plant. Therefore, it requires a soil that hold moisture, but also drains well and doesn’t stay wet.\n\n
+* Mix organic matter bushes into the soil before you set your blueberry bushes.\n\n
+* Bushes should be planted as early in the spring as possible. If available, one to three-year-old plants are a good choice. Be sure to go to a reputable nursery. \n\n
+* Dig holes about 20 inches deep and 18 inches wide (about twice as wide and twice as deep as the roots of the plant).\n\n
+* Space bushes about 5 feet apart in a row, with at least 8 feet between rows. Prepare a planting mixture of 2 parts loam and one part oak leaf mold, peat moss, aged sawdust, or compost, and place a layer of this mixture in the bottom of the hole.\n\n
+* Set the bush, with its roots spread out, at a depth of one inch more than it grew in the nursery and pack the hole tightly with soil.\n\n
+* Apply fertilizer one month after planting, not at time of planting. Then apply 1/2 ounce of a 10-10-10 fertilizer in a band around the plant 6 to 12 inches from the crown.\n
+]]></string>
+
+
+    <string name="summer_squash_details"><![CDATA[
+* If you wish to start seeds indoors due to a short gardening season, sow 2 to 4 weeks before last spring frost in peat pots. (See local frost dates.) However, we recommend direct-seeding for squash because they do not always transplant well. If you do transplant, be very gentle with the roots.\n\n
+* If you wish to get an early start, it may be better to warm the soil with black plastic mulch once the soil has been prepared in early spring.\n\n
+* The soil needs to be warm (at least 60º at a two-inch depth), so plant summer squash after spring (cool-season) crops, like peas, lettuce, and spinach—about one week after the last spring frost to midsummer.\n\n
+* In fact, waiting to plant a few seeds in midsummer will help avoid problems from squash vine borers and other pests and diseases common earlier in the season.\n\n
+* The outside planting site needs to receive full sun; the soil should be moist and well-drained, but not soggy.\n\n
+* Squash plants are heavy feeders. Work compost and plenty of organic matter into the soil before planting for a rich soil base. \n\n
+* To germinate outside, use cloche or frame protection in cold climates for the first few weeks.\n\n
+* Plant seeds about one-inch deep and 2 to 3 feet apart in a traditional garden bed.\n\n
+* Alternatively, plant as a “hill” of 3 or 4 seeds sown close together on a small mound; this is helpful in northern climates, as the soil is warmer off the ground. Allow 5 to 6 feet between hills.\n\n
+* Most summer squashes now come in bush varieties, which take up less space, but winter squash is a vine plant and needs more space. Bush varieties will need to be thinned in early stages of development to about 8 to 12 inches apart.\n\n
+]]></string>
+
+    <string name="beans_details"><![CDATA[
+        * Pole beans will grow as a climbing vine that may reach up to 15 feet tall. Therefore, pole beans require a trellis or staking. Bush beans will spread up to 2 feet, but do not require support. Watch this video to learn how to support beans properly.\n\n
+* Do not start seeds indoors; they may not survive transplanting.\n\n
+* Seeds can be sown outdoors anytime after last spring frost, minimum soil temp is 48 degrees F.  Plant 1 inch deep, a little deeper for sandier soils. Cover soil to warm if necessary.\n\n
+* Bush beans: Plant 2 inches apart.\n\n
+* Pole beans: Set up trellises, or “cattle panels,” and plant 3 inches apart.\n\n
+* If you like pole beans, an easy support for them is a “cattle panel”—a portable section of wire fence—16 feet long and 5 feet tall. The beans will climb with ease, and you won’t have to get into contorted positions to pick them.\n\n
+* For a harvest that lasts all summer, sow beans every 2 weeks. If you’re going to be away, skip a planting. Beans do not wait for anyone.\n\n
+* Rotate crops each year.\n\n
+        ]]></string>
+
+    <string name="sprouts_details"><![CDATA[
+* Start seeds indoors 6-8 weeks before last spring frost.\n\n
+* While starting seeds indoors is recommended, you may also direct sow seeds 4 months before the first fall frost. You may also have luck finding seedlings at a nursery.\n\n
+* Raised beds are especially recommended for cold season vegetables, especially when seasons are changing and temps are not consistent.\n\n
+* Work fertilizer into soil a few days before planting or transplanting.\n\n
+* Plant transplant seedlings 12-24 inches apart.\n\n
+* If direct sowing seeds, plant ½ inch deep and 2-3 inches apart. Thin plants to 12-24 inches apart when they reach 6 inches tall.\n\n
+* Water well at time of planting/transplanting.
+]]></string>
+
+    <string name="okra_details"><![CDATA[
+* You can start okra seeds indoors in peat pots under full light 3 to 4 weeks before the last spring frost date.\n\n
+* You can also start okra directly in your garden 3 to 4 weeks before the last spring frost date as long as you cover the plants with a cold frame or grow tunnel until the weather warms up. Make sure that the covering is 2 to 3 feet tall so that the plants have room to grow.\n\n
+* If you do not start your okra plants early, wait until there is stable warm weather. You can plant okra in the garden when the soil has warmed to 65° to 70°F.\n\n
+* Plant okra in fertile, well-drained soil in full light about ½ to 1 inch deep and 12 to 18 inches apart. You can soak the seeds overnight in tepid water to help speed up germination.\n\n
+* If you are planting okra transplants, be sure to space them 1 to 2 feet apart to give them ample room to grow.\n\n
+* Okra plants are tall, so be sure to space out the rows 3 to 4 feet apart.
+]]></string>
+
+    <string name="capsicum_details"><![CDATA[
+* Before you Plant Your Seeds : \n
+Make sure you have a good place to grow your capsicums. They need a sunny place to grow with some air flow so they don’t succumb to fungal diseases. If you don’t have a lot of room you can plant them in large pots or along a wall as long as there is a breeze.\n\n
+* Sowing Your Seeds : \n
+Plant your seeds in pots so it is easy to transplant them into their final place when they are around 10-15cm tall. Your capsicum seeds will not germinate until the temperature of the soil is right. They prefer a temperature of around 20 to 25°C before they will break dormancy, and they must not be planted outside until all chance of frost is over.
+If you want to start them a few weeks before the expected date of your last frost you can plant the seeds in pots and place them inside on a warm, sunny windowsill, or you can buy an electric seed starting tray at any garden or hardware store.Start with a pot or tray of good seedling mix from your garden center (not ordinary garden soil from your backyard).  Tickle the top of the soil with your fingers, then sprinkle your seeds over the top and add a little more soil to cover. Give them a little water, just enough to keep the soil damp, but not too wet.\n\n
+* While Your Capsicum seeds are Germinating : \n
+After you plant your seeds in pots and are waiting for them to come up you need to get their final planting place ready. Make sure their spot is well drained and has adequate sunlight. Dig in some rotted manure and a handful of blood and bone and pull up any weeds. Leave it now to settle until your seedlings are ready.
+Chilli Seeding\n\n
+* Planting Out : \n
+When your chilli or capsicum plants are around 10-15cm tall you can plant them outside in the position you have chosen. Be gentle with them so you don’t damage the roots or break the stem/s. Give them a sprinkle of water with some very diluted liquid fertiliser in it. When they start to grow strongly you can start them on full strength fertiliser but not now while they are still settling in.\n\n
+* Cultivation : \n
+Capsicums and chillis are pretty easy to look after. Make sure you water them well once or twice a week during hot and dry weather and give them a boost of liquid fertiliser every three or four weeks. If you live in an area that gets very dry summers, it is a good idea to mulch around the plants with a thick layer of straw to hold moisture near the roots, but make sure it does not lie against the trunk.
+It is a good idea to buy some tomato stakes and ties to hold the plants upright so they don’t blow over in the wind
+]]></string>
+
+    <string name="bitter_details"><![CDATA[
+* It is essential to add some compost, such as vermicompost, to your soil before you start planting to give your plant a better environment in which to thrive.\n\n
+* Mix the soil and vermicompost in a ratio of 1:1. Rub it well between your hands to loosen up the soil. Remove any stones and other hard particles from the prepared soil, as they can create obstacles later on.\n\n
+* Choose a medium-sized pot and put small, flat stones over the holes in the bottom. This allows proper drainage of water while preventing soil from slipping out. Bitter gourd thrives in well-drained soil.\n\n
+* Remember that your pot must have holes in it to ensure proper drainage. This is important to prevent fungal infections on the roots of your plant in the later stages of growth.\n\n
+* Put the prepared soil and compost mix in the pot. Fill it completely, leaving only 1 inch from the top. If you find any hard substances in the soil while filling your pot, just remove them.\n\n
+* You can buy good quality seeds online or from your nearest garden store or supermarket. Hybrid seeds that are pest and disease-resistant are a good option.\n\n
+* You can plant the seeds directly in the pot or allow them to germinate in a germination tray first.\n\n
+* Make a hole in the soil, put 1 or 2 seeds in the hole and then fill the hole with soil.\n\n
+* Water the seeds a little bit, just so that the soil becomes wet.\n\n
+* Like all other plants, water is important for the growth of bitter gourds. Water the seeds daily and wait patiently for about a week until the seedlings start to emerge. Soon the small plant will start growing day by day. Keep track of the growth.
+* Water the plant when the soil loses moisture. Water it generously and regularly, but be careful not to overwater it. The soil should be moist, but not soggy.\n\n
+* As soon as the small plant has grown about 2 to 3 inches long, it is time to provide support for the vine to creep on. This is important to prevent the leaves from having direct contact with the soil. By this time, the vine will have developed a few leaves. Initially, you can use a strong stick, and later use a rope on which the vine can climb and grow.\n\n
+* You must water the plant on a regular basis. You can do this every morning or in the afternoon, but remember that you must not overwater it.\n\n
+* As the vine starts growing longer, you need to use a rope to allow the vine to climb.\n\n
+* In the meantime, you will notice flowers blooming on the vine.\n\n
+* The plant will have both male and female flowers. While the male flowers fall off in 1 to 2 days, the female flowers go on to produce fruits. More female flowers will bloom in the coming days.\n\n
+* After about three months, you can harvest the fruits of your labor. The mature gourd fruits have a light green color and the ends of the spines will become round. Freshly harvested fruit tastes the best.\n\n
+* When harvesting, gently pull the fruit from its stem. You can harvest the fruits every few days. Make sure they do not turn yellow, which indicates over-ripeness.\n\n
+]]></string>
+
+    <string name="cauliflower_details"><![CDATA[
+* Select a site with at lesat 6 hours of full sun.\n\n
+* Soil needs be very rich in organic matter; add composted mature to the soil before planting. Fertile soil holds in moiture to prevent heads from “buttoning.”\n\n
+* Test your soil! (Get a soil test through your cooperative extension office.) The soil pH should be between 6.5 and 6.8.\n\n
+* It is best to start cauliflower from transplants rather than seeds. Transplant 2 to 4 weeks before the average frost date in the spring, no sooner and not much later.\n\n
+* Space the transplants 18 to 24 inches apart with 30 inches between rows. Use starter fertilizer when transplanting.\n\n
+* Plant fall cauliflower about the same time as fall cabbage. This is usually 6 to 8 weeks before the first fall frost and also need to be after the temperature is below 75 degrees F.\n\n
+* If you really want to try starting cauliflower from seeds, start the seeds 4 to 5 weeks before the plants are needed. Plant the seeds in rows 3 to 6 inches apart and ¼ to ½ of an inch deep. Do not forget to water the seeds during their germination and growth. Once they become seedlings, transplant them to their permanent place in the garden.\n\n
+* In early spring, be ready to cover your plants with old milk jugs or protection if needed. For fall crops, shade them if they need protection from the heat.\n\n
+* Add mulch to conserve moisture.
+]]></string>
+    <string name="about"><![CDATA[
+     Hi!\n
+     Farming Guru will guide you how to start planting plants \n\n
+     It will also tell you which plant is planted in which month \n\n
+     If you are going to start a mini Kitchen garden then you are having one of the best app...\n\n
+
+     In This App I have mainly focused on Designing Application ,instead of providing Information or details of different plants..\n\n
+     I have not even read the information which i have provided in this app.\n\n
+     \n\n This is my first Android App so I want to share this with you....
+     \nHope you will like it.\n\n
+     Source of Information which is provided in this App is from different website as listed below: \n\n
+     http://www.ufseeds.com/What-To-Plant-Now.html \n
+     http://www.almanac.com/plant/tomatoes \n
+     http://www.fabhow.com/how-to-grow-organic-bitter-gourd-in-a-pot.html\n
+     http://www.theseedcollection.com.au/Articles/Capsicum-How-to-grow-from-seed\n\n\n
+     From:\n
+      Saurabh Agrawal]]></string>
+    <string name="setting_str">Do you want to add Favorite items in your search result??</string>
+    <string name="yes_set">Yes,Add Them too</string>
+    <string name="no_set">No, Don\'t Add</string>
+    <string name="set_dis">By default \'Add them\' is set.This change will only be applied on this particular search.You can\'t change the default search setting.</string>
+    <string name="no_fave_main">
+    It seems that you dont have any
+    favorite food item in this month
+    </string>
+    <string name="about_title">About</string>
+
+</resources>
+
+

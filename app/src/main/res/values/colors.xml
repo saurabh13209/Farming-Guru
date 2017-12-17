@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f44336</color>
+    <color name="colorPrimaryDark">#ba000d</color>
+    <color name="colorAccent">#4a0072</color>
+
+    <color name="main_list">#3c1fff</color>
+    <color name="main_activity_color">#FEF</color>
+    <color name="search_bar">#afefac</color>
+    <color name="info_back">#FFFFBB</color>
+</resources>
